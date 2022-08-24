@@ -5,6 +5,12 @@
 
 ## General info
 This project is a simple generative graphic engine based on Truchet patterns
+
+Example output:
+
+
+
+![alt text](https://github.com/przemmeex/truchet_modifications/blob/master/1661353046.png?raw=true)
 	
 ## Technologies
 Project is created with:
